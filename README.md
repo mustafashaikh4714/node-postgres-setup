@@ -1,3 +1,10 @@
-# node-api-boilerplate
+# Node-Postgres-Setup
 
-created boilerplate for real world node applications 😎.
+## Installation
+
+First clone the repo by using `git clone` command
+
+```bash
+npm i
+npm run dev-local
+```

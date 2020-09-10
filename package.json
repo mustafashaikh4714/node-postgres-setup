@@ -1,5 +1,5 @@
 {
-  "name": "node-api-boilerplate",
+  "name": "node-postgres-setup",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
